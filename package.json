@@ -1,14 +1,14 @@
 {
-  "name": "named",
+  "name": "@daguej/named",
   "description": "DNS server library for node.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "trevoro <trevoro@gmail.com>",
   "contributors": [
     "Mark Cavage"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/trevoro/node-named.git"
+    "url": "git://github.com/daguej/node-named.git"
   },
   "main": "lib/index.js",
   "engines": {
